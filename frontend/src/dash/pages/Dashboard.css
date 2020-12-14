@@ -1,0 +1,6 @@
+.sort-by {
+    margin: 10px 0;
+}
+.sort-by > * {
+    padding: 0 10px;
+}

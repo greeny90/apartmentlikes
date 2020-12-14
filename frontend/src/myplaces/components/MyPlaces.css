@@ -1,0 +1,8 @@
+.show-images {
+    display: block;
+    margin-top: 10px;
+}
+
+.hide-images {
+    display: none;
+}

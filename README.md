@@ -33,6 +33,10 @@ Node.js, Express, React.js, and MongoDB
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/places.png)
 
 ## My Places View:
+- View liked listings.
+- Click "Unlike" to remove from My Places.
+- Click "Show Images" to view all images for each listing.
+
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/myplaces.png)
 
 ## Instructions to Build:

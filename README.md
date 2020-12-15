@@ -2,6 +2,8 @@
 
 - A MERN application for exploring a list of Craigslist postings.  
 - Project for CS5610 Web Development at Northeastern University.
+https://apartmentlikes.herokuapp.com/
+
 - Sort listings in the main dashboard.
 - Logged-in users can store “liked” postings in My Places.
   - Save listings you like; "unlike" ones you don't.

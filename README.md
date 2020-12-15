@@ -21,9 +21,15 @@ Node.js, Express, React.js, and MongoDB
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/signup.png)
 
 ## Login Page:
+- Log in to view complete listing and save the ones you like. 
+
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/loginpage.png)
 
 ## Places View:
+- View each complete listing.
+- Click "Like" to save to My Places.
+- Click "Pass" to view the next listing. 
+
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/places.png)
 
 ## My Places View:

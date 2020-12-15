@@ -12,6 +12,7 @@ Yvette Green
 Node.js, Express, React.js, and MongoDB
 
 ## Main Page:
+- Sort listings by price or date.
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/mainpage.png)
 
 ## Signup Page:

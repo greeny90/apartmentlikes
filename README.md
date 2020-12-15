@@ -12,14 +12,19 @@ Yvette Green
 Node.js, Express, React.js, and MongoDB
 
 ## Main Page:
+![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/mainpage.png)
 
 ## Signup Page:
+![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/signup.png)
 
-## Login Page
+## Login Page:
+![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/loginpage.png)
 
 ## Places View:
+![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/places.png)
 
 ## My Places View:
+![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/myplaces.png)
 
 ## Instructions to Build:
 - Clone repository from Github

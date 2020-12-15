@@ -12,7 +12,7 @@ Yvette Green
 Node.js, Express, React.js, and MongoDB
 
 ## Main Page:
-- View 25 listings per page prior to login.
+- Scan through list of 25 listings per page prior to signup or login.
 - Sort listings by price or date.
 
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/mainpage.png)

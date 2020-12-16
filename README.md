@@ -16,6 +16,15 @@ Node.js, Express, React.js, and MongoDB
 - Scan through list of 25 listings per page prior to signup or login.
 - Sort listings by price or date.
 
+Hi,Yvette. Nice work, i like it. Congratuation, you made it. I am so proud of you.
+For you project, I really like the "like and pass" function, it is so cool. I also like your sort function, you put ascedning and descending order, that is awesome.
+It is a totally different "apartment finder" website compared to others. I like many of your views on web design
+
+One thing I would like to suggest is that you probably can add a search function to your project, for instance search the neighborhood. And in your dashboard page, it would be better if you have a page that if users click the properties then it will show the information of the properties.
+
+
+
+
 ![Website Screenshot](https://github.com/greeny90/apartmentlikes/blob/main/images/mainpage.png)
 
 ## Signup Page:
